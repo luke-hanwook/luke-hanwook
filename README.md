@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+> My motto is...  
+> 유심소현(唯心所現)  
+> A little interest can make changes.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-hanwook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
