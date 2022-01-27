@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-> My motto is...  
-> 유심소현(唯心所現)  
-> A little interest can make changes.
+I'm Luke. I mainly enhance web applications.  
+The experiences in my life has helped me to build a much neater and detailed software.  
+Currently, I work as a web front-end developer due to my interest in modern web technologies.  
+I’m interested in communications, exercising, global news and economics. I’m also interested in learning and creating.  
+My motto is 유심소현(唯心所現) and A little interest can make changes.
+Any suggestions or improvements are welcome!  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-hanwook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
